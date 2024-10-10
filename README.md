@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fl1mb
 - 👀 I’m interested in deckstop programming
-- 🌱 I’m currently learning C++ and QT library
+- 🌱 I’m currently learning C++ and QT library, also Python
 - 💞️ I’m looking to collaborate on my future projects
 - 📫 How to reach me tg @Fl1mb
 - 😄 Pronouns: ...
